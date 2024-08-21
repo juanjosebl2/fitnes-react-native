@@ -1,0 +1,13 @@
+npx create-expo-app@latest fitnes-app
+npx expo start
+
+Acortador
+rnf
+
+tailwind
+npm install nativewind
+npm install --save-dev tailwindcss@3.3.2
+npx tailwindcss init
+
+npm i react-native-responsive-screen
+npm i expo-linear-gradient
